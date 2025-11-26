@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="git.png" width="100%" />
+</p>
+
+
 # 👨🏻‍💻 Lucas Assis
 
 **`Desenvolvedor em aprimoração em Beck-end e Front-end`**
