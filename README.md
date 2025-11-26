@@ -7,7 +7,7 @@
 </h1>
 
 <div style="border: 2px solid #A020F0; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <strong>**`Desenvolvedor em aprimoração em Beck-end e Front-end`**</strong>
+  Desenvolvedor em aprimoração em Beck-end e Front-end
   
   <p>
     Me chamo Lucas José Assis Franca, tenho 19 anos e sou Niterói, Rio de Janeiro. Concluí o ensino médio no colégio La Salle Abel. Atualmente, estou cursando Sistemas de Informação na Unilasalle. Sou apaixonado por tecnologia e compartilho meu conhecimento através de projetos.
