@@ -6,13 +6,12 @@
   👨🏻‍💻 Lucas Assis
 </h1>
 
-<div style="border: 2px solid #A020F0; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  Desenvolvedor em aprimoração em Beck-end e Front-end
-  
-  <p>
-    Me chamo Lucas José Assis Franca, tenho 19 anos e sou Niterói, Rio de Janeiro. Concluí o ensino médio no colégio La Salle Abel. Atualmente, estou cursando Sistemas de Informação na Unilasalle. Sou apaixonado por tecnologia e compartilho meu conhecimento através de projetos.
-  </p>
-</div>
+***`Desenvolvedor em aprimoração em Beck-end e Front-end`***
+
+
+Me chamo Lucas José Assis Franca, tenho 19 anos e sou de Niterói, Rio de Janeiro. Concluí o ensino médio no colégio La Salle Abel. Atualmente, estou cursando ***Sistemas de Informação*** na Unilasalle. Sou apaixonado por tecnologia e compartilho meu conhecimento através de projetos.
+
+<p>
 
 <h2 style="color:#A020F0; border-bottom: 2px solid #A020F0; padding-bottom: 5px;">🌐 Meus Contatos</h2>
 
