@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git.png" width="100%" style="border: 3px solid #A020F0; border-radius: 10px;" />
+  <img src="banner.png" width="100%" style="border: 3px solid #A020F0; border-radius: 10px;" />
 </p>
 
 <h1 style="color:#A020F0; text-align:center; border-bottom: 3px solid #A020F0; padding-bottom: 10px;">
