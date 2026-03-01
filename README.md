@@ -49,6 +49,14 @@ Me chamo Lucas José Assis Franca, tenho 19 anos e sou de Niterói, Rio de Janei
 
 <div style="border-bottom: 2px solid #A020F0; margin: 25px 0;"></div>
 
+## 🏗️ Organizações
+
+Sou **criador, fundador e responsável** pela organização **https://github.com/projeto-forca-coletiva**, uma iniciativa voltada ao desenvolvimento colaborativo de um projeto social.
+
+- 🛠️ **Responsável pela criação do site desse projeto**
+- 🔗 **Acesse o projeto:** https://projeto-forca-coletiva.github.io/projeto-forca-coletiva/
+- 
+
 ### 📊 Estatísticas
 
 <img 
