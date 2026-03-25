@@ -8,17 +8,16 @@
 
 ***`Desenvolvedor em aprimoração em Beck-end e Front-end`***
 
-
 Me chamo Lucas José Assis Franca, tenho 19 anos e sou de Niterói, Rio de Janeiro. Concluí o ensino médio no colégio La Salle Abel. Atualmente, estou cursando ***Sistemas de Informação*** na Unilasalle. Sou apaixonado por tecnologia e compartilho meu conhecimento através de projetos.
 
 <p>
 
 <h2 style="color:#A020F0; border-bottom: 2px solid #A020F0; padding-bottom: 5px;">🌐 Meus Contatos</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasassisfranca)
-[![Instagram](https://img.shields.io/badge/Instagram-8000FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devlucasassis/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-8000FF?style=for-the-badge&logo=about.me&logoColor=white)](https://lucasassisfranca.github.io/portifolio-lucas/)
-[![Gmail](https://img.shields.io/badge/Gmail-8000FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasassisfranca@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8000FF?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-assis-franca)
+[![Instagram](https://img.shields.io/badge/Instagram-8000FF?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/devlucasassis/](https://www.instagram.com/somosforcacoletiva/))
+[![Portfolio](https://img.shields.io/badge/Portfólio-8000FF?style=for-the-badge&logo=about.me&logoColor=white)](https://lucasassis.dev.br/)
+[![Gmail](https://img.shields.io/badge/Gmail-8000FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlucasassis@gmail.com)
 
 <div style="border-bottom: 2px solid #A020F0; margin: 25px 0;"></div>
 
@@ -29,13 +28,9 @@ Me chamo Lucas José Assis Franca, tenho 19 anos e sou de Niterói, Rio de Janei
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
 <br/><br/>
 </div>
@@ -55,7 +50,6 @@ Sou **criador, fundador e responsável** pela organização **https://github.com
 
 - 🛠️ **Responsável pela criação do site desse projeto**
 - 🔗 **Acesse o projeto:** https://projeto-forca-coletiva.github.io/projeto-forca-coletiva/
-- 
 
 ### 📊 Estatísticas
 
